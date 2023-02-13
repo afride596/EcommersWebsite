@@ -1,0 +1,10 @@
+body{
+   background-color: #0f0f10;
+   /* color: ; */
+}
+tbody, td, tfoot, th, thead, tr{
+    color: #03b3b3;
+ }
+ #address{
+    height: 60px;
+ }
