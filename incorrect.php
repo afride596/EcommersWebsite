@@ -38,7 +38,7 @@
          <!-- ignore div class  -->
         
         <div class="login">
-            <form action="registration.php" method="post">
+            <form action="validationpage.php" method="post">
                 <label for="chk" aria-hidden="true">Sign up</label>
                 <input type="text" name="username" placeholder="User name" required="" id="">
                 <input type="email" name="email" placeholder="Email" required="" id="">
